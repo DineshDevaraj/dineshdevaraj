@@ -1,10 +1,9 @@
-### Hi There 👋
----
-- I am a polyglot programmer
-- Reinventing the wheel is a good way to learn software
-- Below I have shown my reinventions
+## Hi There 👋
 
-### Reinventions
+- Polyglot programmer learning by reinventing the wheel
+- Below I have shown my reinventions and implementations
+
+## Reinventions
 
 - [ddaio](https://github.com/DineshDevaraj/ddasynclib) - Drop in replacement for Python's built-in asyncio.
 - ddanl - Python based async network library. A replacement for twisted.
