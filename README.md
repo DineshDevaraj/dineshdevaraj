@@ -1,5 +1,5 @@
-## Hi There 👋
-
+### Hi There 👋
+---
 - I am a polyglot programmer
 - Reinventing the wheel is a good way to learn software
 - Below I have shown my reinventions
