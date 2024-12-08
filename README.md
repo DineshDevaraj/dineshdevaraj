@@ -13,4 +13,4 @@
 
 ## Indigenous Ideas
 
-- [ddpnx](https://github.com/DineshDevaraj/ddjson) - C++ based reverse regex engine implemented using Yacc and Bison.
+- [ddpnx](https://github.com/DineshDevaraj/pnxengine) - C++ based reverse regex engine implemented using Yacc and Bison.
