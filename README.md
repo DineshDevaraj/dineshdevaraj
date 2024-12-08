@@ -1,6 +1,6 @@
 ## Hi There 👋
 
-- Polyglot programmer & learner by reinventing the wheel
+- Polyglot programmer, learner by reinventing the wheel
 - Below I have shown my reinventions and implementations
 
 ## Reinventions
