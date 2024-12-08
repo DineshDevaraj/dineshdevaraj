@@ -1,7 +1,8 @@
 ## Hi There 👋
 
 - I am a polyglot programmer
-- Reinventing the wheel is a best way to learn software
+- Reinventing the wheel is a good way to learn software
+- Hence below I have shown my reinventions
 
 # Reinventing
 
