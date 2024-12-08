@@ -5,7 +5,7 @@
 
 ## Reinventions
 
-- ddprx - Python based UDP proxy
+- ddprx - Python based UDP proxy.
 - [ddaio](https://github.com/DineshDevaraj/ddaio) - Python based event loop. A drop in replacement for Python's built-in asyncio.
 - ddanl - Python based async network library. A drop in replacement for twisted.
 - ddawf - Python based async web development framework. A drop in replacement for FastAPI.
