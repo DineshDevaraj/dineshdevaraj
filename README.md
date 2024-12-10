@@ -1,7 +1,7 @@
 ## Hi There 👋
 
 - Polyglot programmer, learner by reinventing the wheel
-- Below I have shown my reinventions and implementations
+- Below I have shown my (**re**)inventions and implementations
 
 ## Reinventions
 
