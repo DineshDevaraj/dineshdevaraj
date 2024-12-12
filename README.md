@@ -14,4 +14,4 @@
 
 ## Indigenous Ideas
 
-- [ddpnx](https://github.com/DineshDevaraj/pnxengine) - C++, Yacc and Bison based app to generate value from regex like expression.
+- [ddpnx](https://github.com/DineshDevaraj/pnxengine) - C++, Yacc and Bison based app to generate values from regex like expression.
